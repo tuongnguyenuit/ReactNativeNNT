@@ -1,0 +1,3 @@
+rootProject.name = 'EAStore'
+
+include ':app'
